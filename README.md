@@ -207,25 +207,4 @@
 
 ---
 
-### 💡 Most Used Languages (Custom Emphasis)  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>
-      <sub><b>C++</b></sub><br>85%
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
-      <sub><b>Python</b></sub><br>10%
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
-      <sub><b>MySQL</b></sub><br>5%
-    </td>
-  </tr>
-</table>
-
----
-
 ✨ *Always exploring, always learning, always building.*  
