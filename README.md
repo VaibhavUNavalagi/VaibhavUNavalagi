@@ -81,7 +81,7 @@
       <sub><b>LangChain</b></sub>
     </td>
    <td align="center">
-  <img width="488" height="255" alt="Image" src="https://github.com/user-attachments/assets/76c4436d-0e51-45c7-b60d-f13f9971f989" />
+  <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/76c4436d-0e51-45c7-b60d-f13f9971f989" />
   <sub><b>RDMA Basics</b></sub>
 </td>
 
