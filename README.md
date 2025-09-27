@@ -75,10 +75,37 @@
 ---
 
 ## 📜 Certifications
-- NVIDIA – *Introduction to Networking*, *AI Infrastructure and Operations*  
-- GOOGLE – *Project Management*, *Professional Cyber Security Specialization*  
-- MICROSOFT – *Introduction to Azure Cloud Services*  
-- IBM – *Machine Learning (Honors)*  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="40" height="40"/> 
+  <b>Introduction to Networking</b> – NVIDIA
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="40" height="40"/> 
+  <b>AI Infrastructure and Operations</b> – NVIDIA
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/> 
+  <b>Project Management</b> – Google
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/> 
+  <b>Professional Cyber Security Specialization</b> – Google, (ISC)²
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40"/> 
+  <b>Introduction to Microsoft Azure Cloud Services</b> – Microsoft
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="40" height="40"/> 
+  <b>Machine Learning (Honors)</b> – IBM
+</p>
+
 
 ---
 
