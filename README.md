@@ -205,10 +205,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages (C++ highlighted, hide small ones like HTML/CSS/JS) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUNavalagi&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript" height="180"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUNavalagi&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript&custom_title=Most%20Used%20Languages&langs_weight=2)
 
 
 ---
