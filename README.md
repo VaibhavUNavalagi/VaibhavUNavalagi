@@ -154,38 +154,44 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="35" height="35"/> 
-  <b>Introduction to Networking</b> – NVIDIA
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="35" height="35"/> 
-  <b>AI Infrastructure and Operations</b> – NVIDIA
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="35" height="35"/> 
-  <b>Project Management</b> – Google
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="35" height="35"/> 
-  <b>Professional Cyber Security Specialization</b> – Google, (ISC)²
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="35" height="35"/> 
-  <b>Introduction to Microsoft Azure Cloud Services</b> – Microsoft
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="35" height="35"/> 
-  <b>Machine Learning (Honors)</b> – IBM
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="50"/><br>
+      <sub><b>Intro to Networking</b></sub><br>
+      NVIDIA
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="50"/><br>
+      <sub><b>AI Infra & Ops</b></sub><br>
+      NVIDIA
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="50"/><br>
+      <sub><b>Project Management</b></sub><br>
+      Google
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="50"/><br>
+      <sub><b>Cyber Security</b></sub><br>
+      Google / (ISC)²
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="50"/><br>
+      <sub><b>Azure Cloud Services</b></sub><br>
+      Microsoft
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="50"/><br>
+      <sub><b>Machine Learning (Honors)</b></sub><br>
+      IBM
+    </td>
+  </tr>
+</table>
 
 
 ---
