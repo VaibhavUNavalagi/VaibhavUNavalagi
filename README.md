@@ -77,9 +77,10 @@
   <sub><b>GitHub</b></sub>
 </td>
 <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/link--v1.png" width="50"/><br>
-      <sub><b>LangChain</b></sub>
-    </td>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-chain-blockchain-flaticons-lineal-color-flat-icons.png" width="45"/><br>
+  <sub><b>LangChain</b></sub>
+</td>
+
 
 
   </tr>
