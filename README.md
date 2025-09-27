@@ -197,10 +197,7 @@
 
 ## 📊 GitHub Stats  
 
-<!--
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Vaibhav's%20GitHub%20Stats" height="180"/>
-</p>
--->
+<p align="center"> <!-- Overall Stats --> <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Vaibhav's%20GitHub%20Stats" height="180"/>
 
 
   
