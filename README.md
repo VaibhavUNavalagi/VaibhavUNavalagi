@@ -76,6 +76,14 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50"/><br>
   <sub><b>GitHub</b></sub>
 </td>
+<td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/link--v1.png" width="50"/><br>
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/high-voltage.png" width="50"/><br>
+      <sub><b>RDMA Basics</b></sub>
+    </td>
 
   </tr>
 </table>  
