@@ -72,8 +72,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>
       <sub><b>MongoDB</b></sub>
     </td>
-    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/><br>
+   <td align="center">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50"/><br>
   <sub><b>GitHub</b></sub>
 </td>
 
