@@ -73,9 +73,10 @@
       <sub><b>MongoDB</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br>
-      <sub><b>GitHub</b></sub>
-    </td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/><br>
+  <sub><b>GitHub</b></sub>
+</td>
+
   </tr>
 </table>  
 
