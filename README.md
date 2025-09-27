@@ -160,12 +160,12 @@
   <tr>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="50"/><br>
-      <sub><b>Intro to Networking</b></sub><br>
+      <sub><b>Introduction to Networking</b></sub><br>
       NVIDIA
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="50"/><br>
-      <sub><b>AI Infra & Ops</b></sub><br>
+      <sub><b>AI Infrastructure & Operations</b></sub><br>
       NVIDIA
     </td>
     <td align="center">
@@ -182,7 +182,7 @@
   <tr>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="50"/><br>
-      <sub><b>Azure Cloud Services</b></sub><br>
+      <sub><b>Microsoft Azure Cloud Services</b></sub><br>
       Microsoft
     </td>
     <td align="center">
