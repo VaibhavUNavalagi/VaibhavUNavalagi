@@ -81,9 +81,10 @@
       <sub><b>LangChain</b></sub>
     </td>
    <td align="center">
-  <img src="https://img.icons8.com/color/48/microchip.png" width="50"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9ea.svg" width="40"/><br>
   <sub><b>RDMA Basics</b></sub>
 </td>
+
 
   </tr>
 </table>  
