@@ -104,6 +104,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>
       <sub><b>NoSQL DBs</b></sub>
     </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="50" height="50"/><br>
+      <sub><b>Computer Networks</b></sub>
+    </td>
   </tr>
 </table>  
 
