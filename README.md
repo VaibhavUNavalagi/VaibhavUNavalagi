@@ -116,7 +116,7 @@
       <sub><b>Network Programming</b></sub>
     </td>
     <td align="center">
-  <img src="https://www.svgrepo.com/show/374171/flowchart.svg" width="40"/><br>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5c3.svg" width="40"/><br>
   <sub><b>System Design</b></sub>
 </td>
     <td align="center">
