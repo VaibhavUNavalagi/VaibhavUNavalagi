@@ -38,16 +38,60 @@
 </p>
 
 ### 🧩 Core Concepts
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Operating System"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="OOP Concepts"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" title="Hadoop / MapReduce"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud Platform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="NoSQL Databases"/>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br>
+  <sub><b>Operating Systems</b></sub>
 </p>
 
-**Additional Focus Areas:**  
-📊 Data Structures & Algorithms • 🌐 Network Programming • ⚙️ System Design • 🖥️ Computer Architecture • 🔗 LangChain • ⚡ RDMA Basics
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br>
+  <sub><b>OOP Concepts</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/><br>
+  <sub><b>Hadoop / MapReduce</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/><br>
+  <sub><b>Google Cloud</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>
+  <sub><b>NoSQL Databases</b></sub>
+</p>
+
+---
+
+### 🔎 Additional Focus Areas  
+
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/parse-from-clipboard.png" width="30"/> <b>Data Structures & Algorithms</b>  
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/network.png" width="30"/> <b>Network Programming</b>  
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-system-design-web-design-and-development-flat-icons-inmotus-design.png" width="30"/> <b>System Design</b>  
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/computer.png" width="30"/> <b>Computer Architecture</b>  
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/ios/50/link--v1.png" width="30"/> <b>LangChain</b>  
+</p>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/high-voltage.png" width="30"/> <b>RDMA Basics</b>  
+</p>
+
 
 
 ### 🤝 Soft Skills
