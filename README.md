@@ -11,12 +11,25 @@
 </p>
 
 
-## 🚀 About Me
-- 🔬 Research Intern at **Centre for Health Care Technologies and Innovation (CHTR), RVCE**  
-  Developing **supervised and semi-supervised learning models** for arrhythmia detection using PPG signals.  
-- 💻 Strong foundation in **Data Structures, Algorithms, System Design, and Network Programming**.  
-- 🧠 Interests: **Agentic AI, Cybersecurity, and High-performance Computing**.  
-- 📈 Consistently exploring innovative projects in **AI, Cloud, and Embedded Systems**.  
+## 🚀 About Me  
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      🔬 Research Intern at <b>Centre for Health Care Technologies and Innovation (CHTR), RVCE</b>  
+      Developing supervised and semi-supervised learning models for arrhythmia detection using PPG signals.  
+    </p>
+    <p>
+      💻 Strong foundation in <b>Data Structures, Algorithms, System Design, and Network Programming</b>.  
+    </p>
+    <p>
+      🧠 Interests: <b>Agentic AI, Cybersecurity, and High-performance Computing</b>.  
+    </p>
+  </div>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" style="border-radius: 10px;"/>
+</div>
+
 
 ---
 
