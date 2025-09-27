@@ -107,6 +107,22 @@
       <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="50" height="50"/><br>
       <sub><b>Computer Networks</b></sub>
     </td>
+     <td align="center">
+      <img src="https://img.icons8.com/color/48/parse-from-clipboard.png" width="50"/><br>
+      <sub><b>Data Structures & Algorithms</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/network.png" width="50"/><br>
+      <sub><b>Network Programming</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-system-design-web-design-and-development-flat-icons-inmotus-design.png" width="50"/><br>
+      <sub><b>System Design</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/computer.png" width="50"/><br>
+      <sub><b>Computer Architecture</b></sub>
+    </td>
   </tr>
 </table>  
 
