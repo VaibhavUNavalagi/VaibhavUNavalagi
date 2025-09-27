@@ -80,10 +80,10 @@
       <img src="https://img.icons8.com/ios-filled/50/link--v1.png" width="50"/><br>
       <sub><b>LangChain</b></sub>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/high-voltage.png" width="50"/><br>
-      <sub><b>RDMA Basics</b></sub>
-    </td>
+   <td align="center">
+  <img src="https://img.icons8.com/color/48/microchip.png" width="50"/><br>
+  <sub><b>RDMA Basics</b></sub>
+</td>
 
   </tr>
 </table>  
