@@ -6,6 +6,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+
 ## 🚀 About Me
 - 🔬 Research Intern at **Centre for Health Care Technologies and Innovation (CHTR), RVCE**  
   Developing **supervised and semi-supervised learning models** for arrhythmia detection using PPG signals.  
