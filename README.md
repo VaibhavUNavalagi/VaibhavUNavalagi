@@ -116,9 +116,9 @@
       <sub><b>Network Programming</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-system-design-web-design-and-development-flat-icons-inmotus-design.png" width="50"/><br>
-      <sub><b>System Design</b></sub>
-    </td>
+  <img src="https://www.svgrepo.com/show/374171/flowchart.svg" width="40"/><br>
+  <sub><b>System Design</b></sub>
+</td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/computer.png" width="50"/><br>
       <sub><b>Computer Architecture</b></sub>
