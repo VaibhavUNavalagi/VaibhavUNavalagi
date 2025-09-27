@@ -39,11 +39,15 @@
 
 ### 🧩 Core Concepts
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <!-- if you want to show OOP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Operating Systems"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="OOP Concepts"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Databases & Caching"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="NoSQL Databases"/>
 </p>
+
+**Additional Focus Areas:**  
+📐 System Design • 📊 Data Structures & Algorithms • 🖥️ Computer Architecture • ⚡ RDMA Basics
+
 
 ### 🤝 Soft Skills
 🌟 Communication • 🎯 Problem Solving • 👥 Leadership • 👂 Active Listening
