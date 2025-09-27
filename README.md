@@ -77,34 +77,35 @@
 ## 📜 Certifications
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="35" height="35"/> 
   <b>Introduction to Networking</b> – NVIDIA
 </p>
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="35" height="35"/> 
   <b>AI Infrastructure and Operations</b> – NVIDIA
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="35" height="35"/> 
   <b>Project Management</b> – Google
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="35" height="35"/> 
   <b>Professional Cyber Security Specialization</b> – Google, (ISC)²
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="35" height="35"/> 
   <b>Introduction to Microsoft Azure Cloud Services</b> – Microsoft
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="35" height="35"/> 
   <b>Machine Learning (Honors)</b> – IBM
 </p>
+
 
 
 ---
