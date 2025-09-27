@@ -197,10 +197,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐_Stars-10-yellow?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/🏆_Contributions-5-brightgreen?style=for-the-badge&logo=github"/>
-</p>
+<p align="center"> <!-- Overall Stats --> <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Vaibhav's%20GitHub%20Stats" height="180"/>
 
   
  <!-- Streak Stats -->
