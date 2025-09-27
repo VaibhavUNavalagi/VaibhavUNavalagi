@@ -203,8 +203,6 @@
   
  <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=tokyonight&hide_border=false&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=50&longestStreakNum=120&currStreakLabel=Current%20Streak&longestStreakLabel=Longest%20Streak" height="180"/>
-
-
 ---
 
 ✨ *Always exploring, always learning, always building.*  
