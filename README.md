@@ -207,19 +207,6 @@
 
 ---
 
-### 🔥 Highlights  
-
-<table align="center">
-  <tr>
-    <td align="center"><b>⭐ Stars Earned</b><br>120+</td>
-    <td align="center"><b>🔀 Commits</b><br>500+</td>
-    <td align="center"><b>📂 Repositories</b><br>30+</td>
-    <td align="center"><b>🏆 Contributions</b><br>1000+</td>
-  </tr>
-</table>
-
----
-
 ### 💡 Most Used Languages (Custom Emphasis)  
 
 <table align="center">
