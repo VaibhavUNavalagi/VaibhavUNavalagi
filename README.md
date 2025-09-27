@@ -198,15 +198,46 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs" height="180"/>
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Vaibhav's%20GitHub%20Stats" height="180"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=tokyonight" height="180"/>
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUNavalagi&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript&custom_title=Most%20Used%20Languages&langs_weight=2)
+---
 
+### 🔥 Highlights  
+
+<table align="center">
+  <tr>
+    <td align="center"><b>⭐ Stars Earned</b><br>120+</td>
+    <td align="center"><b>🔀 Commits</b><br>500+</td>
+    <td align="center"><b>📂 Repositories</b><br>30+</td>
+    <td align="center"><b>🏆 Contributions</b><br>1000+</td>
+  </tr>
+</table>
+
+---
+
+### 💡 Most Used Languages (Custom Emphasis)  
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>
+      <sub><b>C++</b></sub><br>85%
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
+      <sub><b>Python</b></sub><br>10%
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
+      <sub><b>MySQL</b></sub><br>5%
+    </td>
+  </tr>
+</table>
 
 ---
 
