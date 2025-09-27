@@ -16,10 +16,39 @@
 ---
 
 ## 🛠️ Skills
-**Programming:** C, C++, Python, MySQL, NoSQL, HTML, CSS  
-**Frameworks & Tools:** PyTorch, LangChain, Docker, WFDB, Google Cloud Platform  
-**Concepts:** Data Structures & Algorithms, Operating Systems, OOPS, System Design, Computer Architecture, RDMA Basics, MongoDB  
-**Soft Skills:** Active Listener, Problem Solver, Leadership, Communication  
+
+### 💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF6F00?style=flat&logo=databricks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-12100E?style=flat&logo=chainlink&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![WFDB](https://img.shields.io/badge/WFDB-FF0000?style=flat&logo=github&logoColor=white)
+
+### 🧩 Core Concepts
+![Data Structures](https://img.shields.io/badge/Data%20Structures-02569B?style=flat&logo=googlesheets&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat&logo=thealgorithms&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/OS-0078D6?style=flat&logo=windows-terminal&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat&logo=oracle&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-4A154B?style=flat&logo=figma&logoColor=white)
+![Computer Architecture](https://img.shields.io/badge/CompArch-000000?style=flat&logo=amd&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RDMA](https://img.shields.io/badge/RDMA-FF5733?style=flat&logo=linux&logoColor=white)
+
+### 🤝 Soft Skills
+![Communication](https://img.shields.io/badge/Communication-4285F4?style=flat&logo=googlechat&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-6A1B9A?style=flat&logo=googlemeet&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solver-00C853?style=flat&logo=target&logoColor=white)
+![Active Listener](https://img.shields.io/badge/Active%20Listener-FFD600?style=flat&logo=audacity&logoColor=black)
+
 
 ---
 
