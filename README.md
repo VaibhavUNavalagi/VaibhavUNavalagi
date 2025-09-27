@@ -77,12 +77,12 @@
 ## 📜 Certifications
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40"/> 
   <b>Introduction to Networking</b> – NVIDIA
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" width="40" height="40"/> 
   <b>AI Infrastructure and Operations</b> – NVIDIA
 </p>
 
