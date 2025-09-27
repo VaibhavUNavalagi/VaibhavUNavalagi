@@ -146,14 +146,6 @@
 
 ---
 
-## 🎓 Education
-- **B.E. in Computer Science and Engineering** – RVCE, Bengaluru (2022 – Present)  
-  CGPA: **8.77**  
-- **Pre-University (PCMB)** – Deeksha CFL PU College, Bengaluru – **96.83%**  
-- **Class 10 (ICSE)** – Sri Taralabalu ICSE School, Davanagere – **93.83%**  
-
----
-
 ## 📜 Certifications  
 
 <table>
