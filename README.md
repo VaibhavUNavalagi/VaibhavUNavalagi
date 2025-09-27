@@ -80,9 +80,6 @@
       <img src="https://img.icons8.com/ios-filled/50/link--v1.png" width="50"/><br>
       <sub><b>LangChain</b></sub>
     </td>
-
-
-
   </tr>
 </table>  
 
@@ -125,10 +122,6 @@
     </td>
   </tr>
 </table>  
-
-
-**Additional Focus Areas:**  
-📊 Data Structures & Algorithms • 🌐 Network Programming • ⚙️ System Design • 🖥️ Computer Architecture • 🔗 LangChain • ⚡ RDMA Basics
 
 ---
 
