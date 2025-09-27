@@ -39,14 +39,15 @@
 
 ### 🧩 Core Concepts
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Operating Systems"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Operating System"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="OOP Concepts"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" title="Databases & Caching"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" title="Hadoop / MapReduce"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud Platform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="NoSQL Databases"/>
 </p>
 
 **Additional Focus Areas:**  
-📐 System Design • 📊 Data Structures & Algorithms • 🖥️ Computer Architecture • ⚡ RDMA Basics
+📊 Data Structures & Algorithms • 🌐 Network Programming • ⚙️ System Design • 🖥️ Computer Architecture • 🔗 LangChain • ⚡ RDMA Basics
 
 
 ### 🤝 Soft Skills
