@@ -195,9 +195,21 @@
 
 ---
 
-## 📊 GitHub Stats
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUNavalagi&layout=compact&theme=radical)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages (C++ highlighted, hide small ones like HTML/CSS/JS) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUNavalagi&layout=compact&theme=radical&langs_count=8&hide=html,css,javascript" height="180"/>
+</p>
+
 
 ---
 
