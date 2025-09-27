@@ -6,11 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
-
-
 ## 🚀 About Me  
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
