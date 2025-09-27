@@ -132,34 +132,6 @@
 
 ---
 
-### 🔎 Additional Focus Areas  
-
-<p align="left">
-  <img src="https://img.icons8.com/fluency/48/parse-from-clipboard.png" width="30"/> <b>Data Structures & Algorithms</b>  
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/network.png" width="30"/> <b>Network Programming</b>  
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-system-design-web-design-and-development-flat-icons-inmotus-design.png" width="30"/> <b>System Design</b>  
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/computer.png" width="30"/> <b>Computer Architecture</b>  
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/ios/50/link--v1.png" width="30"/> <b>LangChain</b>  
-</p>
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/high-voltage.png" width="30"/> <b>RDMA Basics</b>  
-</p>
-
-
-
 ### 🤝 Soft Skills
 🌟 Communication • 🎯 Problem Solving • 👥 Leadership • 👂 Active Listening
 
