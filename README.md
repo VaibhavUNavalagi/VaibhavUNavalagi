@@ -202,7 +202,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VaibhavUNavalagi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Vaibhav's%20GitHub%20Stats" height="180"/>
   
  <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavUNavalagi&theme=tokyonight&hide_border=false&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=50&longestStreakNum=120&currStreakLabel=Current%20Streak&longestStreakLabel=Longest%20Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavUNavalagi&theme=tokyonight&hide_border=false&border_radius=8&currStreakNum=50&longestStreakNum=120&fire=FF4500&ring=FFD700&currStreakLabel=Current%20Streak%3A%2050%20🔥&longestStreakLabel=Longest%20Streak%3A%20120%20🚀" height="180"/>
+
 ---
 
 ✨ *Always exploring, always learning, always building.*  
